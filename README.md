@@ -1,1 +1,1 @@
-# resfino
+# Capstone Project Prototype
